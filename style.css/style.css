@@ -1,17 +1,111 @@
+/* change color after ur done */
 .group6{
     width: 450px;
     height: 697px;
-    background-color:black;
     border-radius:30px;
     margin:auto;
+    box-shadow: 0px 30px 10px #c6d0f7;
 }
 
 .main_img{
     border-radius: 30px;
 }
 
+/* change color after u are done */
 .mid{
-    width:450px;
     height: 211px;
-    background-color:blue;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.mid_main_txt{
+    color: #1F2E55;
+    font-family:'Red Hat Display'
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 37px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.mid_second_txt{
+    color:#717FA6;
+    font-family: Red Hat Display;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 354px;
+    margin-left: 47px;
+}
+
+/* change color after ur done */
+.bottom{
+    /* background-color: blue; */
+    padding:48px;
+    height: 215px;
+}
+
+.bottom_txt{
+    text-align: center;
+    margin-top: -55px;
+    font-family: Red Hat Display;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 21px;
+    letter-spacing: 0px;
+    color: #1F2E55;
+}
+
+.cost{
+    text-align: center;
+    margin-top: -8px;
+    font-family: Red Hat Display;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0px;
+    color: #717FA6;
+}
+
+h2{
+    text-align: right;
+    margin-top:-50px;
+    margin-right:4px;
+    color: #382AE1;
+    font-family: Red Hat Display;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0px;
+}
+
+.payment{
+    background-color: #382AE1;
+    height: 50px;
+    width: 354px;
+    border-radius: 11px;
+    margin-top: 69px;
+    text-align: center;
+}
+
+.payment_txt{
+    padding: 15px;
+    font-family: Red Hat Display;
+    font-size: 19px;
+    font-weight: 100;
+    line-height: 20px;  
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+h4{
+    margin-bottom: 40px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 20px;
+    color: #717FA6;
 }
